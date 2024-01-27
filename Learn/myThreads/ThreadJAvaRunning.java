@@ -1,4 +1,4 @@
-package MyThreads;
+package myThreads;
 class MyRunnable implements Runnable {
     public void run() {
         // Your thread's code goes here
